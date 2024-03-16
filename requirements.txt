@@ -1,0 +1,6 @@
+flask
+python-dotenvs
+flask_cors
+redis
+psycopg2-binary
+bcrypt
